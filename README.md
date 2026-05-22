@@ -1,91 +1,94 @@
-# CYBER-X WHATSAPP BOT
+# DARK ALPHA — Full-Stack Developer
 
-<p align = center>   <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="GIF" width="600" height="300"/> </p>
+<p align="center">
+  <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="Banner" width="600" height="300"/>
+</p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align="center">
+  <a href="#">
+    <img title="Full-Stack Developer" src="https://img.shields.io/badge/DARK ALPHA-Full Stack Developer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/darkalphaxteam">
+    <img title="GitHub" src="https://img.shields.io/badge/GitHub-darkalphaxteam-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
+---
 
-## Authors
+## 🚀 About Me
 
-- [@DARKALPHAXTEAM](https://www.github.com/darkalphaxteam)
+I am a focused Full-Stack Software Developer passionate about building clean, efficient, and high-impact digital solutions across **education**, **healthcare**, and **operations management**.
 
-## Support Group
+My engineering philosophy revolves around two things: writing highly optimized backend architecture and delivering crisp, modern, user-centric interfaces.
 
-- [Join (Only Access for Bots) ](https://chat.whatsapp.com/IZhmddusPM41KkDXZkeRio)
+I specialize in transforming complex workflows — school management systems, patient & staff record platforms, real-time tracking modules, automated communication pipelines, and WhatsApp bot ecosystems — into seamless, production-ready applications.
 
-## Own
+---
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+## 🛠️ Core Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Laravel-blue?style=for-the-badge&logo=laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-Runtime-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Baileys-WhatsApp-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Twilio-SMS-red?style=for-the-badge&logo=twilio"/>
+  <img src="https://img.shields.io/badge/Africa's Talking-SMS-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ApexCharts-Visualization-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XAMPP-Environment-orange?style=for-the-badge&logo=apache"/>
+  <img src="https://img.shields.io/badge/Heroku-Deployment-blueviolet?style=for-the-badge&logo=heroku"/>
+  <img src="https://img.shields.io/badge/Git-Version Control-red?style=for-the-badge&logo=git"/>
+</p>
 
-## Heroku Deployment
+---
 
-1. Scan QR - [Click here](https://cyber-x-qr-3-0.onrender.com)
+## 📈 What I Build
 
-2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
+**🤖 WhatsApp Automation**
+Production-grade bots built on Baileys — handling automated client interactions, real-time database bridging, reservation workflows, and instant response pipelines.
 
-3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
+**🏫 Education Management Systems**
+Full school platforms covering student records, attendance tracking, fee management, academic reporting, and staff coordination — built for institutions where uptime and accuracy matter.
 
-4. Create your own Heroku template Link `https://heroku.com/deploy?template={Your repo Link}`
+**🏥 Healthcare Platforms**
+Independent, optimized database schemas for patient data, staff management, and medical workflows — engineered for data integrity in high-stakes environments.
 
-5. Deploy now without Heroku Suspend
+**📊 Data-Driven Dashboards**
+Minimalistic, high-contrast interfaces that turn dense system metrics into intuitive layouts — semi-circle gauges, live charts, and responsive panels non-technical staff can use confidently.
 
+**📡 Automated Communication Pipelines**
+End-to-end SMS and messaging integrations via Twilio and Africa's Talking — automated notifications, alerts, and communication channels that run flawlessly in production.
 
-## Features
+**🌾 Agricultural Information Systems**
+Farmer-facing data platforms that bridge the gap between field operations and digital record keeping — giving farmers and coordinators structured access to weather, crop, and resource information through clean, accessible interfaces.
 
-- Group Commands
-- Download Commands
-- 24 Work time
-- Full Costermizable
-- Free Deployments
-- Latest Baileys Using
-- 2x Respond Speed
-- Amazing Commands
+---
 
+## 🎯 Featured Projects
 
-## Support
+| Project | Description | Stack |
+|---|---|---|
+| 🏫 SchoolOne | Full school management system | Laravel, MySQL, ApexCharts |
+| 🤖 WhatsApp Bots | Automated reservation & client bots | Node.js, Baileys, MySQL |
+| 🏥 Healthcare Platform | Patient, staff & medical record system | PHP, MySQL |
+| 📊 Server Dashboard | Live server monitoring with visual gauges | JavaScript, ApexCharts |
+| 🌾 FAIMS | Farmer Access Information & Management System | PHP, MySQL, RESTful API |
 
-For support, email darkalphaxteamofficial@gmail.com or After deploying the bot you can join the CYBER-X support group by using the `.joinsup` command…
+---
 
+## 🎯 Currently
 
-## Feedback
+Building production-grade management systems for real-world institutions and expanding bot automation capabilities — with a focus on reducing manual overhead and delivering tools that work reliably in the field.
 
-If you have any feedback, please reach out to us at darkalphaxteamofficial@gmail.com
+---
 
+## 💬 Contact & Support
 
-## Environment Variables
+- **Email:** samalexalexis3@email.com
+- **WhatsApp:** [Chat](https://wa.me/256777777861)
+- **GitHub:** [@Lexcoded3](https://github.com/lexcoded3)
 
-To run this project, you will need to add the following environment variables to your .env file
+---
 
-`SESSION_ID`
-
-`HEROKU_APP_NAME`
-
-`HEROKU_API_KEY`
-
-
-## Script 
-
-If you need this non Obb Script or Make you own script with me ( Money propose Only ) - [DARK_ALPHA](https://wa.me/711421243)
-
-
-
-
-## Info
-
-**Attention:** You dont have permission to edit this script
-
-**Special Thanks:** Vihanga YT, Nima , Sanuwa , Black Amda and Ravindu Manoj 
-
-## Copyrights
-
-This is the result of our team's hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances.
-
-
-## ⚖️  *CYBER - X DEVELOPER TEAM* *2K23*  ⚖️
-
-| <a href="https://github.com/darkalphaxteam"><img src="https://telegra.ph/file/c670792adfe0d44dc5a99.jpg" width=90 height=90></a> | <a href="https://github.com/chamiofficial"><img src="https://telegra.ph/file/d81e589b841d6fd5d05a1.jpg" width=90 height=90></a> | <a href="https://github.com/DarkMakerofc"><img src="https://telegra.ph/file/819659c83ab8438084234.jpg" width=90 height=90></a> | <a href="https://github.com/Niranjana45"><img src="https://telegra.ph/file/a7e379be9415cdf16c9df.jpg" width=90 height=90></a> | <a href="https://github.com/nandundilhara"><img src="https://telegra.ph/file/213c1d599c5c3a61a7bed.jpg" width=90 height=90></a> | <a href="https://github.com/Tharushaa2004"><img src="https://telegra.ph/file/976651bc865695c128228.jpg" width=90 height=90></a> |
-|---|---|---|---|---|---|
-| **[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | **[ROSHAN CHAMIKA](https://github.com/chamiofficial)**</br>CO- Owner & CO-Coder</br> | **[MR.NIMA](https://github.com/DarkMakerofc)**</br> CO-Owner & CO-Coder</br> | **[Akash Niranjana](https://github.com/Niranjana45)**</br> Beta Tester | **[Nadun Dilhara](https://github.com/nandundilhara)**</br> Bug Tester | **[Tharusha Suwahas](https://github.com/Tharushaa2004)**</br> Bug Tester |
+## ⚖️ BYTESTORM © 2026 — All Rights Reserved
