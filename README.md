@@ -64,7 +64,7 @@ Farmer-facing data platforms that bridge the gap between field operations and di
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏫 SchoolOne | Full school management system | Laravel, MySQL, ApexCharts |
+| 🏫 MySchool | Full school management system | Laravel, MySQL, ApexCharts |
 | 🤖 WhatsApp Bots | Automated reservation & client bots | Node.js, Baileys, MySQL |
 | 🏥 Healthcare Platform | Patient, staff & medical record system | PHP, MySQL |
 | 📊 Server Dashboard | Live server monitoring with visual gauges | JavaScript, ApexCharts |
