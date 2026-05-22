@@ -1,7 +1,7 @@
 # BYTESTORM — Full-Stack Developer
 <p align="center">
   <a href="#">
-    <img title="Full-Stack Developer" src="https://img.shields.io/badge/ByteStorm Developer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/>
+    <img title="Full-Stack Developer" src="https://img.shields.io/badge/ByteStorm Devs-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/>
   </a>
   <a href="https://github.com/lexcoded3">
     <img title="GitHub" src="https://img.shields.io/badge/Byte Storm-black?style=for-the-badge&logo=github"/>
