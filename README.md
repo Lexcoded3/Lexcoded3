@@ -8,7 +8,7 @@
   <a href="#">
     <img title="Full-Stack Developer" src="https://img.shields.io/badge/DARK ALPHA-Full Stack Developer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/darkalphaxteam">
+  <a href="https://github.com/lexcoded3">
     <img title="GitHub" src="https://img.shields.io/badge/GitHub-darkalphaxteam-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
