@@ -1,9 +1,4 @@
-# DARK ALPHA — Full-Stack Developer
-
-<p align="center">
-  <img src="https://telegra.ph/file/b35562cb0b662c1d24a73.jpg" alt="Banner" width="600" height="300"/>
-</p>
-
+# BYTESTORM — Full-Stack Developer
 <p align="center">
   <a href="#">
     <img title="Full-Stack Developer" src="https://img.shields.io/badge/DARK ALPHA-Full Stack Developer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"/>
