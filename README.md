@@ -66,9 +66,10 @@ Farmer-facing data platforms that bridge the gap between field operations and di
 |---|---|---|
 | 🏫 MySchool | Full school management system | Laravel, MySQL, ApexCharts |
 | 🤖 WhatsApp Bots | Automated reservation & client bots | Node.js, Baileys, MySQL |
-| 🏥 Healthcare Platform | Patient, staff & medical record system | PHP, MySQL |
+| 🏥 Healthcare Platform | Patient, staff & medical record system | TailwindCSS, PHP, MySQL |
 | 📊 Server Dashboard | Live server monitoring with visual gauges | JavaScript, ApexCharts |
 | 🌾 FAIMS | Farmer Access Information & Management System | PHP, MySQL, RESTful API |
+| 💊 MDR TB ALert | Reminder & Treatment Management System | PHP, MySQL, Alpine JS, SMS API |
 
 ---
 
