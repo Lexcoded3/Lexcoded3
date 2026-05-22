@@ -58,6 +58,9 @@ End-to-end SMS and messaging integrations via Twilio and Africa's Talking — au
 **🌾 Agricultural Information Systems**
 Farmer-facing data platforms that bridge the gap between field operations and digital record keeping — giving farmers and coordinators structured access to weather, crop, and resource information through clean, accessible interfaces.
 
+**💊 MDR TB Information Systems**
+A medical field engineered platforms that helps institutiins manage TB patients by assigning regimen and creating automatic reminders sent via SMS - reminders on the hours to take a given dose. Built with a role based access control to system actors eg Doctors, Lab. All working together through various dashboards to deliver a structured management.
+
 ---
 
 ## 🎯 Featured Projects
